@@ -556,7 +556,7 @@ function AdminContent() {
                   {/* Amazon Link - Required */}
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">
-                      Amazon-Link <span className="text-red-500">*</span>
+                      Amazon-Link (https://www.amazon.de/dp/)<span className="text-red-500">*</span>
                     </label>
                     <Input
                       type="url"
